@@ -1,12 +1,14 @@
 nav.sidebar {
   display: flex;
   flex-direction: column;
+  position: fixed;
 
   align-items: center;
 
   max-width: 24rem;
   width: 100%;
-  height: auto;
+  height: 100vw;
+
 
   padding: 2rem;
 
